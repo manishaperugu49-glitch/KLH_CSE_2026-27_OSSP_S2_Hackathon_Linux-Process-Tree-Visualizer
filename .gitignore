@@ -1,0 +1,4 @@
+process_tree
+*.o
+logs/*.txt
+logs/*.log
